@@ -4,7 +4,7 @@ end
 
 def my_hash
   sample_hash = {
-    :color = "black"
+    :color => "black"
   }
 end
 
